@@ -6,7 +6,7 @@
 <p align="center">Cybersecurity | Reverse Engineering | Low-Level & Full-Stack Developer</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NinaDev&theme=dark&hide_border=true&date_format=M%20j[,%20Y]" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinaDev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -30,8 +30,6 @@
 - and more . . .
 
 ---
-
-## 💻 Programming
 
 ## 💻 Programming
 
