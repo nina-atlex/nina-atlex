@@ -5,17 +5,16 @@
 <h1 align="center">Nina</h1>
 <p align="center">Cybersecurity | Reverse Engineering | Low-Level & Full-Stack Developer</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nina-atlex&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Nina's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nina-atlex&theme=react-dark" alt="Nina's contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nina-atlex&theme=radical" alt="Nina's GitHub streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nina-atlex&theme=radical" alt="Nina's GitHub streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nina-atlex&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Nina's GitHub stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
