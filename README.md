@@ -78,7 +78,7 @@
 
 ## 📬 Contact Me
 
-- Discord: `nina_kms(1364403776210993193)`
+- Discord: `nina_kmc(1376837959210373160)`
 - Telegram: [@nina_aka_lubrj](https://t.me/nina_aka_lubrj)
 
 ---
